@@ -42,5 +42,5 @@ class CineFacade:
 
 
 cine = CineFacade()
-cine.iniciar_pelicula()   # Se prepara todo para ver la película
-cine.terminar_pelicula()  # Se apagan las luces y demás cuando termina
+cine.iniciar_pelicula()   
+cine.terminar_pelicula() 
